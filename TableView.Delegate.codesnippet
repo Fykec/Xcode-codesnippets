@@ -9,7 +9,9 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
+	<string>#pragma mark - TableView DataSource
+
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
     return &lt;# number #&gt;;
 }
 
@@ -40,7 +42,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TableView DataSource</string>
+	<string>TableView.DataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
