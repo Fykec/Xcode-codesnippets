@@ -36,7 +36,7 @@
     return cell;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>772F52F4-AC28-48C2-82BB-4F0A69FAF867</string>
+	<string>E02F52F4-AC28-48C2-82BB-4F0A69FAF867</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>

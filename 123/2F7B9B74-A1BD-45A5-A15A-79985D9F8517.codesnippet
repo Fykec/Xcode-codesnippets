@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>kvos</string>
+	<string>disp_a</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[self willChangeValueForKey:@"&lt;#ivar#&gt;"];
-[&lt;#ivar#&gt; autorelease];
-&lt;#ivar#&gt; = [&lt;#newValue#&gt; retain];
-[self didChangeValueForKey:@"&lt;#ivar#&gt;"];</string>
+	<string>        dispatch_async(dispatch_get_main_queue(), ^{
+            &lt;#code#&gt;
+        });
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E0589B05-59A0-49DF-A4EF-438E4A99E113</string>
+	<string>2F7B9B74-A1BD-45A5-A15A-79985D9F8517</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>dispatch_async</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>KVO setter</string>
+	<string>My Code Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

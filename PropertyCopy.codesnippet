@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, copy) &lt;#Type#&gt; &lt;#Name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5681248A-8E22-4AAD-ABB9-E0B12CF1FAB1</string>
+	<string>E081248A-8E22-4AAD-ABB9-E0B12CF1FAB1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetPlatformFamily</key>

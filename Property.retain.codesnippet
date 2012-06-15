@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, retain) &lt;#Type#&gt; &lt;#Name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D46384FD-08A6-4DDE-B113-15ECF8008826</string>
+	<string>E06384FD-08A6-4DDE-B113-15ECF8008826</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetPlatformFamily</key>

@@ -12,7 +12,7 @@
 	<string>@property (weak, nonatomic) IBOutlet &lt;#Type#&gt; *&lt;#Name#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4D5086D9-1255-4145-A9CE-CCE1FF76F3CA</string>
+	<string>E05086D9-1255-4145-A9CE-CCE1FF76F3CA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetPlatformFamily</key>
