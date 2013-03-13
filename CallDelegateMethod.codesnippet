@@ -9,8 +9,10 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (self.delegate != nil){
-    if ([delegate respondsToSelector: @selector(&lt;#MethodToCall#&gt;)]){
+	<string>if (self.delegate != nil)
+    {
+        if ([delegate respondsToSelector: @selector(&lt;#MethodToCall#&gt;)])
+        {
             [delegate &lt;#MethodToCall#&gt;];
         }
     } 

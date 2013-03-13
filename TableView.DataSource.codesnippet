@@ -11,8 +11,10 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - UITableViewDelegate
 
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    switch (indexPath.section) {
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    switch (indexPath.section)
+    {
         case &lt;#constant#&gt;:
             &lt;#statements#&gt;
             break;
