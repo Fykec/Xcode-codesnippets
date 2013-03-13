@@ -3,27 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>result</string>
+	<string>synthesize_</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>result = [CHMProjectSummary FieldToString:_&lt;#FieldName#&gt;];
-    if (result != nil) {
-        fields = [fields stringByAppendingString:@", &lt;#FieldName#&gt;"];
-        values = [values stringByAppendingString:result];
-    }
-</string>
+	<string>@synthesize &lt;#property#&gt; = _&lt;#propertyIvar#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5C5CE27A-E39D-495D-BAC3-FC6EB3F6018D</string>
+	<string>2C503929-27C5-435D-9D4A-5E22AAD07F07</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>synthesize_</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -3,35 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tableviewdelegate</string>
+	<string>define</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - UITableViewDelegate
-
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    switch (indexPath.section)
-    {
-        case &lt;#constant#&gt;:
-            &lt;#statements#&gt;
-            break;
-    }
-}
-</string>
+	<string>#define &lt;#name#&gt; &lt;#substitution#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E0465973-32E5-4498-8439-2F076B2BA297</string>
+	<string>C2ECEEE4-EC1D-4327-86AC-A302325839F0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>TableView.Delegate</string>
+	<string>define</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

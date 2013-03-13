@@ -3,27 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>disp_a</string>
+	<string>import</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>        dispatch_async(dispatch_get_main_queue(), ^{
-            &lt;#code#&gt;
-        });
-</string>
+	<string>#import "&lt;#Class#&gt;"</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2F7B9B74-A1BD-45A5-A15A-79985D9F8517</string>
+	<string>A0338944-599D-4E35-BA77-486CF31F1B0D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>dispatch_async</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>import</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

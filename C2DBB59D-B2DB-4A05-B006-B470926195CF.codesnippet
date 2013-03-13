@@ -3,31 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>delegate</string>
+	<string>propertyassign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (self.delegate != nil)
-    {
-        if ([delegate respondsToSelector: @selector(&lt;#MethodToCall#&gt;)])
-        {
-            [delegate &lt;#MethodToCall#&gt;];
-        }
-    } 
-</string>
+	<string>@property (nonatomic, assign) &lt;#typs#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E0D4D0D9-A17B-459A-B53E-BB29F251D89E</string>
+	<string>C2DBB59D-B2DB-4A05-B006-B470926195CF</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Delegate: call method</string>
+	<string>propertyassign</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
