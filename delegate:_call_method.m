@@ -1,6 +1,7 @@
-// Delegate: call method
+// delegate:_call_method
 // 
 //
+// Delegate: call method
 // IDECodeSnippetCompletionPrefix: delegate
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: E0D4D0D9-A17B-459A-B53E-BB29F251D89E
