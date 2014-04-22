@@ -3,19 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>debuglogstring</string>
+	<string>layoutsubviews</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DebugLog(@"[%@|%@|%d] %@", NSStringFromClass([self class]) , NSStringFromSelector(_cmd) , __LINE__ ,@"");</string>
+	<string>- (void)layoutSubviews
+{
+    [super layoutSubviews];
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>ED6064C3-8EC5-4CB2-AFD6-6466075E3307</string>
+	<string>306791E5-484D-4B03-AF91-111F1E6FD1E5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>debuglogstring</string>
+	<string>layoutsubviews</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

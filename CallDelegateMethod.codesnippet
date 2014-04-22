@@ -11,9 +11,9 @@
 	<key>IDECodeSnippetContents</key>
 	<string>if (self.delegate != nil)
     {
-        if ([delegate respondsToSelector: @selector(&lt;#MethodToCall#&gt;)])
+        if ([self.delegate respondsToSelector: @selector(&lt;#MethodToCall#&gt;)])
         {
-            [delegate &lt;#MethodToCall#&gt;];
+            [self.delegate &lt;#MethodToCall#&gt;];
         }
     } 
 </string>

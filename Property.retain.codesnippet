@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propertyretain</string>
+	<string>@propertystrong</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, retain) &lt;#Type#&gt; &lt;#Name#&gt;;</string>
+	<string>@property (strong, nonatomic) &lt;#Type#&gt; &lt;#Name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E06384FD-08A6-4DDE-B113-15ECF8008826</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Add  retain property</string>
+	<string>strong property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
