@@ -3,8 +3,8 @@
 //
 // IDECodeSnippetCompletionPrefix: typedef
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 2A7CABF6-E809-4738-AC98-501974709132
+// IDECodeSnippetIdentifier: A0C5F881-99F1-42E3-B49A-1E2D3C63A091
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 typedef <#existing#> <#new#>;
