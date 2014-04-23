@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: for
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 167AF381-F451-4535-900D-D2B65C99DB1F
+// IDECodeSnippetIdentifier: FCECA628-DDB5-45C4-8F8A-6C23F10CA7C9
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 for (<#initialization#>; <#condition#>; <#increment#>) {
     <#statements#>
 }
