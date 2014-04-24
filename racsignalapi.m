@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-RACSignal *signal = [[BBAPIManger sharedInstance] <####>] objectForKey:kID]];
+RACSignal *signal = [[BBAPIManger sharedInstance] <####>];
 
     [signal subscribeNext:^(id resp) {
 
