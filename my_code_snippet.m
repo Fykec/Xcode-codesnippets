@@ -1,6 +1,7 @@
-// My Code Snippet
+// initWithStyle
 // 
 //
+// IDECodeSnippetCompletionPrefix: initWithStyle
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: D4BED166-B337-487B-A689-4A8ED41CA7C4
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
